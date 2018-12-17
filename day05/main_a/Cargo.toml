@@ -1,0 +1,7 @@
+[package]
+name = "main_a"
+version = "0.1.0"
+authors = ["Francesco Pierfederici <fpierfed@megabeets.com>"]
+edition = "2018"
+
+[dependencies]
