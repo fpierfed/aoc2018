@@ -2,3 +2,4 @@ nimcache/
 part1
 part2
 *.txt
+.venv
